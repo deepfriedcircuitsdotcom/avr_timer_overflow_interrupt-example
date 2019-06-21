@@ -6,4 +6,4 @@ Makefile
 *.map
 *.hex
 *.srec
-.gitignore
+
