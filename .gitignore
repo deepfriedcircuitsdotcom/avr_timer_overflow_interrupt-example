@@ -5,3 +5,5 @@ Makefile
 *.o
 *.map
 *.hex
+*.srec
+.gitignore
