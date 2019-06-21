@@ -1,0 +1,3 @@
+Super simple example AVR timer interrupt.
+Interrupt on overflow.
+8bit and 16bit timer/counters.
